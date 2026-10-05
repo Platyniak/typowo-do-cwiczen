@@ -2,7 +2,9 @@
 
 
 #Leganckie podpowiedzi
-
+# Nagłówek duży
+## Nagłówek średni
+### Nagłówek mały
 |Składnia|Efekt|
 |---|---|
 |`# Tekst`|Nagłówek duży<br>hashtag musi być całkiem z lewej|
@@ -18,7 +20,7 @@
 |`> tekst	`|Cytat|
 |`kod`|'kod'	kod na szarym tle|
 |'''```przed i po bloku	cały blok kodu z kolorowaniem```|kod na szarym tle|
-|`---`|Linia pozioma (separator)|
+|`---`|---Linia pozioma (separator)|
 |`[ ] zadanie / - [x] zrobione`|Zaznaczenie checkboxa|
 
 
