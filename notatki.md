@@ -3,22 +3,21 @@
 
 #Leganckie podpowiedzi
 
-Tabela|Kol1|Kol2|
-|#Tekst|Nagłówek duży|
-|## Tekst|Nagłówek średni|
-|### Tekst|Nagłówek mały|
-|**tekst**|Pogrubienie|
-|*tekst*|Kursywa|
-|***tekst***|Pogrubiona kursywa|		
-|~~tekst~~|Przekreślenie|
-|- punkt
-* punkt
-|Lista wypunktowana|
-|[tekst](https://adres.pl)	|klikalny link|
-|![opis](link-do-obrazka)	|Obrazek|
-|> tekst	|Cytat|
-|'kod'|`kod`	kod na szarym tle|
-|'''``` przed i po bloku	cały blok kodu z kolorowaniem```|kod na szarym tle|
+|Składnia|Efekt|
+|---|---|
+|`#Tekst`|Nagłówek duży|
+|`## Tekst`|Nagłówek średni|
+|`### Tekst`|Nagłówek mały|
+|`**tekst**`|Pogrubienie|
+|`*tekst*`|Kursywa|
+|`***tekst***`|Pogrubiona kursywa|		
+|`~~tekst~~`|Przekreślenie|
+|`- punkt` `* punkt`|Lista wypunktowana|
+|`[tekst](https://adres.pl)	`|klikalny link|
+|`![opis](link-do-obrazka)`	|Obrazek|
+|`> tekst	`|Cytat|
+|`kod`|`kod`	kod na szarym tle|
+|'''```przed i po bloku	cały blok kodu z kolorowaniem```|kod na szarym tle|
 |---|Linia pozioma (separator)|
 |[ ] zadanie / - [x] zrobione|Zaznaczenie checkboxa|
 
