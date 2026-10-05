@@ -16,7 +16,7 @@
 |`[tekst](https://adres.pl)	`|klikalny link|
 |`![opis](link-do-obrazka)`	|Obrazek|
 |`> tekst	`|Cytat|
-|`kod`|`kod`	kod na szarym tle|
+|`kod`|'kod'	kod na szarym tle|
 |'''```przed i po bloku	cały blok kodu z kolorowaniem```|kod na szarym tle|
 |`---`|Linia pozioma (separator)|
 |`[ ] zadanie / - [x] zrobione`|Zaznaczenie checkboxa|
