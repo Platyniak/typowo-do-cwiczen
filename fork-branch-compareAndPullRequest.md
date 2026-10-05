@@ -14,7 +14,7 @@
 `git add Contributors.md`  
 `git commit -m "Add User to Contributors list"`  
 
- 6. **Wysłanie NA SWÓJ fork (uwaga: origin, nie orgin!)**  
+ 6. **Wysłanie NA SWÓJ fork**  
 `git push -u origin add-User`  
   
  7. **Na stronie GitHuba: "Compare & pull request" → opis → Create pull request**  
