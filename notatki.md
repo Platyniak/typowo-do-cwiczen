@@ -22,7 +22,7 @@
 |`[ ] zadanie / - [x] zrobione`|Zaznaczenie checkboxa|
 
 
-
+<!--
 #Nagłówek duży	# Tekst	
 #Nagłówek średni	## Tekst	
 #Nagłówek mały	### Tekst	
@@ -40,3 +40,4 @@
 #Linia pozioma (separator)	---	pozioma kreska
 #Zaznaczenie checkboxa	- [ ] zadanie / - [x] zrobione	☐ / ☑
 #Tabela	| Kol1 | Kol2 | w jednej linii, pod spodem |---|---|	prawdziwa tabela
+-->
