@@ -5,7 +5,7 @@
 
 |Składnia|Efekt|
 |---|---|
-|`#Tekst`|Nagłówek duży|
+|`# Tekst`|Nagłówek duży|
 |`## Tekst`|Nagłówek średni|
 |`### Tekst`|Nagłówek mały|
 |`**tekst**`|Pogrubienie|
